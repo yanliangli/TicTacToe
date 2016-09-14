@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rest_button">Reset</string>
+    <string name="new_game">New Game</string>
+    <string name="choose_players">Choose Players</string>
+
+    <string-array name="player_colors_array">
+        <item>Player 1: Red, Player 2: Blue</item>
+        <item>Player 1: Yellow, Player 2: Green</item>
+        <item>Player 1: Cyan, Player 2: Magenta</item>
+    </string-array>
+
+</resources>
